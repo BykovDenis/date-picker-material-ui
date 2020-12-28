@@ -1,10 +1,11 @@
 {
-  "name": "@riski-react-ui/date-picker-material-ui",
+  "name": "@riski-react-ui/date-picker-material-ui-example",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://bykovdenis.github.io/date-picker-material-ui/",
   "dependencies": {
     "@ramonak/react-progress-bar": "^1.2.3",
+    "@riski-react-ui/date-picker-material-ui": "0.0.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",

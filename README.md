@@ -17,7 +17,7 @@ npm install --save @riski-react-ui/date-picker
 ```jsx
 import React from 'react';
 
-import DatePicker from '@riski-react-ui/date-picker';
+import DatePicker from '@riski-react-ui/date-picker-material-ui';
 
 const onDatePickerDateChange = () => {};
 
